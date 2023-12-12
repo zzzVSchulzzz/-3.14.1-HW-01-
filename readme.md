@@ -24,7 +24,7 @@ LICENSE: [MIT](./license.md)
 8. [Файл .gitignore и правила синтаксиса для него](./8.md)
 9. [Углубленное изучение данной VCS](https://git-scm.com/book/ru/v2)
 10. Удачи!
-
+---
 *<small>my commit comments look like:</small>* 
 ![Котик](./klipartz.com.png)  
 *<small>license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)</small>*
